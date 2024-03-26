@@ -1,0 +1,48 @@
+commit 0069942c39e38bae2645c012485723b41a630670
+Author: Dino <dinodinac2003@gmail.com>
+Date:   Tue Mar 26 14:44:27 2024 +0100
+
+     Call method makeBigStringFrom in main class.
+
+commit 8eb90599a62c2eb154f84e9935741e61f854e079
+Merge: be1d4a7 95551c2
+Author: Dino <dinodinac2003@gmail.com>
+Date:   Tue Mar 26 12:07:14 2024 +0100
+
+    popraveno
+
+commit 95551c2412b3fb9cf5391d0af5552422df4a0aa1
+Author: Dino <dinodinac2003@gmail.com>
+Date:   Mon Mar 25 16:50:29 2024 +0100
+
+    Call method makeBigStringFrom in main class.
+
+commit be1d4a7e211c6cccb2c7d5b3821e4b99c5421df3
+Author: Dino <dinodinac2003@gmail.com>
+Date:   Mon Mar 25 16:47:45 2024 +0100
+
+    Call method filterOddLengthStrings in main class.
+
+commit 86222df479103380ceebe63b25edd908680ce01b
+Author: Dino <dinodinac2003@gmail.com>
+Date:   Mon Mar 25 16:43:58 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit bd7d6095c7be82214dff59b5a1a56935a6bad7aa
+Author: Dino <dinodinac2003@gmail.com>
+Date:   Mon Mar 25 16:38:56 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit e74f627593b8f3f02412fce0b88e0cf2224ce567
+Author: Dino <dinodinac2003@gmail.com>
+Date:   Mon Mar 25 15:22:19 2024 +0100
+
+    Add starter code
+
+commit dfe0dd82bb2db774b113feda82a9ba1a6c7e0108
+Author: Dino <dinodinac2003@gmail.com>
+Date:   Mon Mar 25 15:16:16 2024 +0100
+
+    Initial commit
